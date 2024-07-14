@@ -1,5 +1,7 @@
 # B Trees
 
+![image](https://github.com/user-attachments/assets/6b0cf329-fe86-4c66-9c57-3b3bd786b462)
+
 **B-Trees** are a special type of self-balancing search tree in which each node can contain more than one key and can have more than two children. It is a generalized form of the [binary search tree](https://www.programiz.com/dsa/binary-search-tree).
 
 It is also known as a height-balanced m-way tree.
@@ -20,9 +22,9 @@ B-Trees are the main data structure used in SQL Databases for indexing. The B-tr
 
 You may view the prsentation slides and implementation code by clicking each of the links provided:
 
-1. **[Part 1 - Concepts, Search, and Insertion]()**
-2. **[Part 2 - Deletion and Streamline Code Simulation]()** 
-3. **[C Source Code]()**
+1. **[Part 1 - Concepts, Search, and Insertion](https://github.com/20100215/B_Tree_Implementation/blob/main/01_BTree_Concepts%2BSearch%2BInsert.ppsx)**
+2. **[Part 2 - Deletion and Streamline Code Simulation](https://github.com/20100215/B_Tree_Implementation/blob/main/02_BTree_Delete%2BStreamlineCode.ppsx)** 
+3. **[C Source Code](https://github.com/20100215/B_Tree_Implementation/blob/main/00_BTree-LinkedList-AllOperations.c)**
 
 ## Video Resource
 
